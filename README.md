@@ -1,6 +1,7 @@
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=full-stack%2Cpython%2Cbackend%2Cfrontend" alt="roadmap.sh"/></a>
 
-#Introduction
+## Introduction
+
 This repository contains information about Reginald L Portee, also known as DevLeonXpX. It is intended for personal use only and should not be shared with others. The purpose is to provide insights into my background, skills, and interests.
 
 #Contents
