@@ -46,6 +46,8 @@ My goal is to deepen my understanding of these areas and progressively build my 
 
 [Reginald Portee aka DevLeonXpX Data Analyst Studies](https://draw.roadmap.sh/6643f560662f1deb3445e822)
 
+[Roadmap Profile](https://roadmap.sh/u/devleonxpx)
+
 ## Usage
 
 Remember that this is for personal reference only.
